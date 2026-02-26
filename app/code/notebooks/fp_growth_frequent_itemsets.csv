@@ -1,0 +1,324 @@
+support,itemsets
+0.044903428911767206,frozenset({'Strawberries'})
+0.0313536969284438,frozenset({'Organic Blueberries'})
+0.017676337956266486,frozenset({'Raspberries'})
+0.02295158682889475,frozenset({'Yellow Onions'})
+0.013762443631413256,frozenset({'Bunched Cilantro'})
+0.009657108823279163,frozenset({'Vanilla Almond Breeze Almond Milk'})
+0.021675316940355654,frozenset({'Original Hummus'})
+0.016740406704671147,frozenset({'Organic Peeled Whole Baby Carrots'})
+0.008933889219773675,frozenset({'Organic Extra Firm Tofu'})
+0.02201565557729941,frozenset({'Carrots'})
+0.01193312345784055,frozenset({'Granny Smith Apples'})
+0.02122862247936697,frozenset({'Half & Half'})
+0.009933633965795967,frozenset({'Clementines'})
+0.034693269803454434,frozenset({'Organic Yellow Onion'})
+0.05575172296434953,frozenset({'Organic Avocado'})
+0.11760827022887774,frozenset({'Bag of Organic Bananas'})
+0.016974389517569983,frozenset({'Red Peppers'})
+0.006381349442695482,frozenset({'Total 2% Lowfat Greek Strained Yogurt with Peach'})
+0.009699651152897133,frozenset({'Organic Whole Strawberries'})
+0.027056921637028844,frozenset({'Organic Lemon'})
+0.006253722453841573,frozenset({'Oven Roasted Turkey Breast'})
+0.03277886497064579,frozenset({'Organic Garlic'})
+0.011528971326469838,frozenset({'Pure Irish Butter'})
+0.009252956691908449,frozenset({'Pure Sparkling Water'})
+0.14883434016846764,frozenset({'Banana'})
+0.02375989109163618,frozenset({'Organic Baby Carrots'})
+0.020271420062962647,frozenset({'Organic Small Bunch Celery'})
+0.011954394622649536,frozenset({'2% Reduced Fat Milk'})
+0.009486939504807283,frozenset({'No Salt Added Black Beans'})
+0.08340423721602995,frozenset({'Organic Strawberries'})
+0.011337530843188974,frozenset({'Organic Spring Mix'})
+0.00714711137581894,frozenset({'Organic Diced Tomatoes'})
+0.010359057261975666,frozenset({'Organic Sticks Low Moisture Part Skim Mozzarella String Cheese'})
+0.014698374883008593,frozenset({'Organic Reduced Fat 2% Milk'})
+0.007529992342380669,frozenset({'Electrolyte Enhanced Water'})
+0.043244278056666384,frozenset({'Organic Raspberries'})
+0.042393431464306984,frozenset({'Organic Whole Milk'})
+0.02769505658129839,frozenset({'Organic Fuji Apple'})
+0.007636348166425593,frozenset({'Total 0% Greek Yogurt'})
+0.02656768484642219,frozenset({'Apple Honeycrisp Organic'})
+0.033119203607589555,frozenset({'Organic Zucchini'})
+0.022930315664085765,frozenset({'Organic Gala Apples'})
+0.01593210244192972,frozenset({'Organic Ginger Root'})
+0.015613034969794945,frozenset({'Small Hass Avocado'})
+0.00710456904620097,frozenset({'Heavy Whipping Cream'})
+0.03090700246745512,frozenset({'Cucumber Kirby'})
+0.04754105334808134,frozenset({'Large Lemon'})
+0.024993618650557305,frozenset({'Honeycrisp Apple'})
+0.010103803284267847,frozenset({'Organic Baby Broccoli'})
+0.005360333531864205,frozenset({'Sustainably Soft Bath Tissue'})
+0.01876116736152472,frozenset({'Organic Granny Smith Apple'})
+0.012082021611503445,"frozenset({'Clementines, Bag'})"
+0.008380838934740066,frozenset({'Green Onions'})
+0.0053816046966731895,frozenset({'Organic Low Sodium Chicken Broth'})
+0.06717433846677444,frozenset({'Organic Hass Avocado'})
+0.02518505913383817,frozenset({'Organic Cucumber'})
+0.023504637113928358,frozenset({'Organic Large Extra Fancy Fuji Apple'})
+0.019739640942738026,frozenset({'Organic Tomato Cluster'})
+0.016740406704671147,frozenset({'Organic Garnet Sweet Potato (Yam)'})
+0.015910831277120736,frozenset({'Organic Kiwi'})
+0.014102782268357015,frozenset({'Organic Navel Orange'})
+0.011911852293031567,frozenset({'100% Raw Coconut Water'})
+0.009252956691908449,frozenset({'Frozen Organic Wild Blueberries'})
+0.008231940781077172,frozenset({'Organic Large Grade AA Brown Eggs'})
+0.007891602144133413,frozenset({'Pineapple Chunks'})
+0.017187101165659833,frozenset({'Spring Water'})
+0.009465668339998299,frozenset({'Italian Sparkling Mineral Water'})
+0.006211180124223602,frozenset({'Organic Green Seedless Grapes'})
+0.015272696332851186,frozenset({'Hass Avocados'})
+0.005849570322470858,frozenset({'Chicken & Maple Breakfast Sausage'})
+0.006296264783459542,frozenset({'Organic Unsalted Butter'})
+0.007338551859099804,frozenset({'Organic Bread with 21 Whole Grains'})
+0.0057219433336169485,frozenset({'Organic Baby Spinach Salad'})
+0.01933548881136731,frozenset({'Organic Blackberries'})
+0.010018718625031908,frozenset({'Russet Potato'})
+0.009316770186335404,frozenset({'Sharp Cheddar Cheese'})
+0.025440313111545987,frozenset({'Seedless Red Grapes'})
+0.02239853654386114,frozenset({'Organic Baby Arugula'})
+0.018676082702288776,frozenset({'100% Whole Wheat Bread'})
+0.012273462094784311,frozenset({'Roma Tomato'})
+0.005955926146515783,frozenset({'Vanilla Skyr Nonfat Yogurt'})
+0.005573045179954055,frozenset({'Hass Avocado'})
+0.01425168042201991,frozenset({'Lime Sparkling Water'})
+0.010763209393346379,frozenset({'Organic Bartlett Pear'})
+0.006891857398111121,frozenset({'Organic Yellow Peaches'})
+0.00529652003743725,frozenset({'Globe Eggplant'})
+0.022483621203097083,frozenset({'Fresh Cauliflower'})
+0.012294733259593295,frozenset({'Organic Broccoli'})
+0.024015145069343997,frozenset({'Sparkling Water Grapefruit'})
+0.010529226580447545,frozenset({'Sparkling Lemon Water'})
+0.02025014889815366,frozenset({'Asparagus'})
+0.01735727048413171,frozenset({'Green Bell Pepper'})
+0.011996936952267506,frozenset({'Organic Grade A Free Range Large Brown Eggs'})
+0.00908278737343657,frozenset({'Organic Roma Tomato'})
+0.00891261805496469,frozenset({'Whipped Cream Cheese'})
+0.0077001616608525485,frozenset({'Watermelon Chunks'})
+0.005530502850336084,frozenset({'Trilogy Kombucha Drink'})
+0.00546668935590913,frozenset({'Organic Broccoli Crowns'})
+0.006508976431549391,frozenset({'Organic Leek'})
+0.015527950310559006,frozenset({'Boneless Skinless Chicken Breasts'})
+0.011443886667233897,frozenset({'Shredded Parmesan'})
+0.00835956776993108,frozenset({'Honey Nut Cheerios'})
+0.008189398451459202,frozenset({'Ground Turkey Breast'})
+0.0077001616608525485,frozenset({'Lightly Salted Baked Snap Pea Crisps'})
+0.0059346549817067985,frozenset({'Organic Baby Rainbow Carrots'})
+0.011720411809750702,frozenset({'Orange Bell Pepper'})
+0.009338041351144388,frozenset({'Green Beans'})
+0.007423636518335744,frozenset({'Cantaloupe'})
+0.005530502850336084,frozenset({'Asparation/Broccolini/Baby Broccoli'})
+0.02497234748574832,frozenset({'Organic Half & Half'})
+0.018314472900536033,frozenset({'Organic Red Bell Pepper'})
+0.005147621883774356,frozenset({'Organic Beef Hot Dogs'})
+0.07510848294052583,frozenset({'Organic Baby Spinach'})
+0.014592019058963668,"frozenset({""Organic D'Anjou Pears""})"
+0.005530502850336084,frozenset({'Total 2% All Natural Plain Greek Yogurt'})
+0.013762443631413256,frozenset({'Sparkling Natural Mineral Water'})
+0.011507700161660852,frozenset({'Organic Carrot Bunch'})
+0.009912362800986983,frozenset({'Organic Large Brown Grade AA Cage Free Eggs'})
+0.006998213222156045,frozenset({'Organic Jalapeno Pepper'})
+0.018569726878243854,frozenset({'Organic Whole String Cheese'})
+0.010997192206245215,frozenset({'Organic Black Beans'})
+0.010401599591593636,frozenset({'Bartlett Pears'})
+0.00521143537820131,frozenset({'Organic AppleApple'})
+0.0439249553305539,frozenset({'Limes'})
+0.006551518761167362,frozenset({'Organic White Onions'})
+0.012549987237301115,frozenset({'Broccoli Crown'})
+0.0069343997277290905,frozenset({'Organic Heavy Whipping Cream'})
+0.006572789925976347,frozenset({'Peach Pear Flavored Sparkling Water'})
+0.00533906236705522,frozenset({'Sparkling Water Berry'})
+0.026397515527950312,frozenset({'Organic Grape Tomatoes'})
+0.007062026716583,frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey'})
+0.021888028588445504,frozenset({'Organic Red Onion'})
+0.014315493916446865,frozenset({'Organic Lacinato (Dinosaur) Kale'})
+0.009295499021526418,frozenset({'Fat Free Milk'})
+0.007381094188717774,frozenset({'Organic Shredded Carrots'})
+0.007168382540627924,frozenset({'Organic Hothouse Cucumbers'})
+0.0064877052667404065,"frozenset({'Milk, Organic, Vitamin D'})"
+0.006381349442695482,frozenset({'Organic Spring Mix Salad'})
+0.010975921041436229,frozenset({'Organic Romaine Lettuce'})
+0.007168382540627924,frozenset({'Gala Apples'})
+0.01601718710116566,frozenset({'Extra Virgin Olive Oil'})
+0.005615587509572024,frozenset({'Marinara Sauce'})
+0.01084829405258232,frozenset({'Unsalted Butter'})
+0.010039989789840892,frozenset({'Feta Cheese Crumbles'})
+0.00533906236705522,frozenset({'Shallot'})
+0.015272696332851186,frozenset({'Unsweetened Almondmilk'})
+0.01714455883604186,frozenset({'Blueberries'})
+0.01248617374287416,frozenset({'Large Alfresco Eggs'})
+0.01063558240449247,frozenset({'Unsweetened Original Almond Breeze Almond Milk'})
+0.01093337871181826,frozenset({'Soda'})
+0.005445418191100145,frozenset({'Reduced Fat 2% Milk'})
+0.02001616608525483,frozenset({'Michigan Organic Kale'})
+0.0065940610907853315,frozenset({'Creamy Almond Butter'})
+0.011103548030290138,frozenset({'Garlic'})
+0.005530502850336084,frozenset({'Mango Chunks'})
+0.006466434101931422,frozenset({'Icelandic Style Skyr Blueberry Non-fat Yogurt'})
+0.006891857398111121,frozenset({'Organic Raw Kombucha Gingerade'})
+0.005700672168807964,frozenset({'Original No Pulp 100% Florida Orange Juice'})
+0.0059346549817067985,frozenset({'Organic Shredded Mozzarella'})
+0.0086148217476389,frozenset({'Organic Basil'})
+0.009104058538245554,frozenset({'Organic Roasted Turkey Breast'})
+0.009210414362290479,frozenset({'Organic Milk'})
+0.005743214498425934,frozenset({'Unsalted Pure Irish Butter'})
+0.0050838083893474,frozenset({'Organic American Cheese Singles'})
+0.007976686803369352,frozenset({'Shredded Mild Cheddar Cheese'})
+0.0054879605207181145,frozenset({'Macaroni & Cheese'})
+0.009018973879009615,frozenset({'Organic Sour Cream'})
+0.010082532119458861,frozenset({'Organic Broccoli Florets'})
+0.008763719901301795,frozenset({'100% Recycled Paper Towels'})
+0.016548966221390283,frozenset({'Red Vine Tomato'})
+0.01782523610992938,frozenset({'Organic Italian Parsley Bunch'})
+0.007572534671998639,frozenset({'Yellow Bell Pepper'})
+0.006657874585212286,frozenset({'Boneless Skinless Chicken Breast'})
+0.0059346549817067985,frozenset({'Organic Large Green Asparagus'})
+0.00521143537820131,frozenset({'Organic Snipped Green Beans'})
+0.005445418191100145,frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz'})
+0.008317025440313111,frozenset({'Romaine Hearts'})
+0.005317791202246235,frozenset({'Guacamole'})
+0.00521143537820131,frozenset({'Ezekiel 4:9 Bread Organic Sprouted Whole Grain'})
+0.011188632689526079,frozenset({'Whole Milk'})
+0.007763975155279503,frozenset({'Red Raspberries'})
+0.005658129839189994,frozenset({'Non Fat Raspberry Yogurt'})
+0.012847783544626904,frozenset({'Uncured Genoa Salami'})
+0.0065940610907853315,frozenset({'Organic Butternut Squash'})
+0.0053816046966731895,frozenset({'Organic Banana'})
+0.011911852293031567,frozenset({'Grape White/Green Seedless'})
+0.007849059814515443,frozenset({'Organic Celery Hearts'})
+0.0050838083893474,frozenset({'Air Chilled Organic Boneless Skinless Chicken Breasts'})
+0.009614566493661193,frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt'})
+0.011316259678379988,frozenset({'Organic Reduced Fat Milk'})
+0.006126095464987663,frozenset({'Organic Frozen Peas'})
+0.01012507444907683,frozenset({'Organic Russet Potato'})
+0.006104824300178678,frozenset({'White Corn'})
+0.00908278737343657,frozenset({'Total 0% Nonfat Greek Yogurt'})
+0.00735982302390879,frozenset({'Fresh Ginger Root'})
+0.007062026716583,frozenset({'Blackberries'})
+0.005105079554156386,frozenset({'Pure Coconut Water'})
+0.006338807113077512,frozenset({'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})
+0.006551518761167362,frozenset({'Large Grapefruit'})
+0.005126350718965371,frozenset({'Frozen Broccoli Florets'})
+0.006870586233302136,frozenset({'Organic 2% Reduced Fat Milk'})
+0.018357015230154004,frozenset({'Organic Unsweetened Almond Milk'})
+0.021334978303411894,frozenset({'Organic Cilantro'})
+0.013719901301795286,frozenset({'Grated Parmesan'})
+0.0057219433336169485,"frozenset({'YoKids Squeezers Organic Low-Fat Yogurt, Strawberry'})"
+0.006232451289032588,frozenset({'Uncured Hickory Smoked Sunday Bacon'})
+0.0057219433336169485,frozenset({'Natural Spring Water'})
+0.005530502850336084,frozenset({'European Cucumber'})
+0.012996681698289799,frozenset({'Red Onion'})
+0.006019739640942738,frozenset({'Sweet Onion'})
+0.005870841487279843,frozenset({'Creamy Peanut Butter'})
+0.007742703990470518,frozenset({'Baby Spinach'})
+0.008019229132987322,"frozenset({'Organic Red Radish, Bunch'})"
+0.005615587509572024,frozenset({'Sparkling Mineral Water'})
+0.006253722453841573,frozenset({'Lemonade'})
+0.00714711137581894,frozenset({'Organic Green Cabbage'})
+0.005955926146515783,frozenset({'Fridge Pack Cola'})
+0.0067004169148302565,frozenset({'Organic Romaine'})
+0.005062537224538415,frozenset({'Natural Chicken & Sage Breakfast Sausage'})
+0.0054879605207181145,frozenset({'Sea Salt Pita Chips'})
+0.007870330979324427,frozenset({'Organic Bell Pepper'})
+0.005700672168807964,frozenset({'Salted Butter'})
+0.006402620607504467,frozenset({'Cherubs Heavenly Salad Tomatoes'})
+0.0053816046966731895,frozenset({'Organic Creamy Peanut Butter'})
+0.005275248872628265,frozenset({'Organic Salted Butter'})
+0.00916787203267251,frozenset({'Organic Garbanzo Beans'})
+0.006360078277886497,frozenset({'Organic Yams'})
+0.0086148217476389,frozenset({'Organic Fat Free Milk'})
+0.008253211945886157,frozenset({'Unsweetened Vanilla Almond Milk'})
+0.00718965370543691,frozenset({'Organic Bosc Pear'})
+0.005019994894920446,frozenset({'Organic Tomato Basil Pasta Sauce'})
+0.006104824300178678,frozenset({'Organic Thyme'})
+0.013081766357525738,frozenset({'Jalapeno Peppers'})
+0.005849570322470858,frozenset({'Organic Mint'})
+0.008933889219773675,frozenset({'Organic Coconut Milk'})
+0.0067004169148302565,frozenset({'Sour Cream'})
+0.0057219433336169485,frozenset({'Organic Old Fashioned Rolled Oats'})
+0.006785501574066196,frozenset({'Brussels Sprouts'})
+0.006806772738875181,frozenset({'Shredded Mozzarella'})
+0.005551774015145069,frozenset({'Organic Baby Kale'})
+0.007891602144133413,frozenset({'Original Orange Juice'})
+0.0050838083893474,frozenset({'White Onion'})
+0.008146856121841232,frozenset({'Total Greek Strained Yogurt'})
+0.005147621883774356,frozenset({'Organic Tomato Paste'})
+0.005105079554156386,frozenset({'Sinfully Sweet Campari Tomatoes'})
+0.00546668935590913,frozenset({'Organic Egg Whites'})
+0.005126350718965371,frozenset({'Roasted Red Pepper Hummus'})
+0.013741172466604272,"frozenset({'Banana', 'Strawberries'})"
+0.005615587509572024,"frozenset({'Bag of Organic Bananas', 'Strawberries'})"
+0.006657874585212286,"frozenset({'Organic Blueberries', 'Bag of Organic Bananas'})"
+0.006402620607504467,"frozenset({'Banana', 'Organic Blueberries'})"
+0.006913128562920106,"frozenset({'Organic Blueberries', 'Organic Strawberries'})"
+0.006572789925976347,"frozenset({'Banana', 'Yellow Onions'})"
+0.005785756828043904,"frozenset({'Banana', 'Original Hummus'})"
+0.005126350718965371,"frozenset({'Banana', 'Organic Yellow Onion'})"
+0.006041010805751723,"frozenset({'Organic Baby Spinach', 'Organic Yellow Onion'})"
+0.007317280694290819,"frozenset({'Bag of Organic Bananas', 'Organic Yellow Onion'})"
+0.006126095464987663,"frozenset({'Organic Hass Avocado', 'Organic Yellow Onion'})"
+0.007508721177571684,"frozenset({'Bag of Organic Bananas', 'Organic Avocado'})"
+0.00735982302390879,"frozenset({'Organic Strawberries', 'Organic Avocado'})"
+0.017272185824895772,"frozenset({'Banana', 'Organic Avocado'})"
+0.009657108823279163,"frozenset({'Organic Baby Spinach', 'Organic Avocado'})"
+0.006785501574066196,"frozenset({'Organic Hass Avocado', 'Organic Lemon'})"
+0.006891857398111121,"frozenset({'Organic Lemon', 'Bag of Organic Bananas'})"
+0.006189908959414617,"frozenset({'Organic Baby Spinach', 'Organic Garlic'})"
+0.005147621883774356,"frozenset({'Organic Hass Avocado', 'Organic Garlic'})"
+0.006679145750021271,"frozenset({'Organic Yellow Onion', 'Organic Garlic'})"
+0.005998468476133753,"frozenset({'Banana', 'Organic Garlic'})"
+0.006104824300178678,"frozenset({'Bag of Organic Bananas', 'Organic Garlic'})"
+0.005360333531864205,"frozenset({'Banana', 'Organic Baby Carrots'})"
+0.019186590657704415,"frozenset({'Bag of Organic Bananas', 'Organic Strawberries'})"
+0.01778269378031141,"frozenset({'Banana', 'Organic Strawberries'})"
+0.013017952863098783,"frozenset({'Bag of Organic Bananas', 'Organic Raspberries'})"
+0.008551008253211945,"frozenset({'Organic Hass Avocado', 'Organic Raspberries'})"
+0.00697694205734706,"frozenset({'Banana', 'Organic Raspberries'})"
+0.010975921041436229,"frozenset({'Organic Strawberries', 'Organic Raspberries'})"
+0.006168637794605632,"frozenset({'Organic Baby Spinach', 'Organic Raspberries'})"
+0.008402110099549052,"frozenset({'Bag of Organic Bananas', 'Organic Whole Milk'})"
+0.010061260954649877,"frozenset({'Banana', 'Organic Whole Milk'})"
+0.007636348166425593,"frozenset({'Organic Whole Milk', 'Organic Strawberries'})"
+0.005190164213392325,"frozenset({'Organic Baby Spinach', 'Organic Whole Milk'})"
+0.011231175019144049,"frozenset({'Banana', 'Organic Fuji Apple'})"
+0.005509231685527099,"frozenset({'Banana', 'Apple Honeycrisp Organic'})"
+0.006891857398111121,"frozenset({'Bag of Organic Bananas', 'Apple Honeycrisp Organic'})"
+0.00529652003743725,"frozenset({'Organic Zucchini', 'Organic Strawberries'})"
+0.006168637794605632,"frozenset({'Banana', 'Organic Zucchini'})"
+0.007444907683144729,"frozenset({'Organic Zucchini', 'Bag of Organic Bananas'})"
+0.006508976431549391,"frozenset({'Organic Zucchini', 'Organic Baby Spinach'})"
+0.006274993618650557,"frozenset({'Bag of Organic Bananas', 'Organic Gala Apples'})"
+0.005402875861482174,"frozenset({'Banana', 'Organic Gala Apples'})"
+0.010741938228537395,"frozenset({'Banana', 'Cucumber Kirby'})"
+0.00542414702629116,"frozenset({'Cucumber Kirby', 'Organic Avocado'})"
+0.006423891772313452,"frozenset({'Bag of Organic Bananas', 'Large Lemon'})"
+0.007296009529481834,"frozenset({'Organic Baby Spinach', 'Large Lemon'})"
+0.012975410533480813,"frozenset({'Banana', 'Large Lemon'})"
+0.007551263507189654,"frozenset({'Large Lemon', 'Organic Avocado'})"
+0.009146600867863524,"frozenset({'Banana', 'Honeycrisp Apple'})"
+0.019229132987322387,"frozenset({'Organic Hass Avocado', 'Bag of Organic Bananas'})"
+0.009997447460222922,"frozenset({'Banana', 'Organic Hass Avocado'})"
+0.011954394622649536,"frozenset({'Organic Hass Avocado', 'Organic Baby Spinach'})"
+0.013081766357525738,"frozenset({'Organic Hass Avocado', 'Organic Strawberries'})"
+0.00516889304858334,"frozenset({'Organic Hass Avocado', 'Organic Cucumber'})"
+0.006317535948268527,"frozenset({'Bag of Organic Bananas', 'Organic Cucumber'})"
+0.005253977707819281,"frozenset({'Organic Baby Spinach', 'Organic Cucumber'})"
+0.005360333531864205,"frozenset({'Organic Cucumber', 'Organic Strawberries'})"
+0.007381094188717774,"frozenset({'Bag of Organic Bananas', 'Organic Large Extra Fancy Fuji Apple'})"
+0.007785246320088488,"frozenset({'Banana', 'Seedless Red Grapes'})"
+0.005041266059729431,"frozenset({'Banana', 'Fresh Cauliflower'})"
+0.0053816046966731895,"frozenset({'Banana', 'Sparkling Water Grapefruit'})"
+0.015421594486514081,"frozenset({'Banana', 'Organic Baby Spinach'})"
+0.012337275589211265,"frozenset({'Organic Baby Spinach', 'Organic Strawberries'})"
+0.015740661958648854,"frozenset({'Bag of Organic Bananas', 'Organic Baby Spinach'})"
+0.007168382540627924,"frozenset({'Limes', 'Organic Avocado'})"
+0.009210414362290479,"frozenset({'Limes', 'Large Lemon'})"
+0.006572789925976347,"frozenset({'Limes', 'Organic Baby Spinach'})"
+0.005913383816897814,"frozenset({'Limes', 'Organic Hass Avocado'})"
+0.010763209393346379,"frozenset({'Limes', 'Banana'})"
+0.006338807113077512,"frozenset({'Limes', 'Organic Strawberries'})"
+0.00684931506849315,"frozenset({'Limes', 'Bag of Organic Bananas'})"
+0.005147621883774356,"frozenset({'Bag of Organic Bananas', 'Organic Grape Tomatoes'})"
+0.006551518761167362,"frozenset({'Banana', 'Organic Grape Tomatoes'})"
+0.00529652003743725,"frozenset({'Banana', 'Blueberries'})"
+0.00542414702629116,"frozenset({'Limes', 'Organic Cilantro'})"

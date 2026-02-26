@@ -1,0 +1,16 @@
+antecedents,consequents,support,confidence,lift,estimated_revenue_per_100k_orders
+frozenset({'Organic Yellow Onion'}),frozenset({'Organic Garlic'}),0.0067,0.1925,5.8733,2932.2308
+frozenset({'Organic Garlic'}),frozenset({'Organic Yellow Onion'}),0.0067,0.2038,5.8733,3103.4837
+frozenset({'Organic Cilantro'}),frozenset({'Limes'}),0.0054,0.2542,5.788,1338.9028
+frozenset({'Limes'}),frozenset({'Organic Cilantro'}),0.0054,0.1235,5.788,650.3242
+frozenset({'Large Lemon'}),frozenset({'Limes'}),0.0092,0.1937,4.4106,2099.663
+frozenset({'Limes'}),frozenset({'Large Lemon'}),0.0092,0.2097,4.4106,2272.5166
+frozenset({'Organic Hass Avocado'}),frozenset({'Organic Lemon'}),0.0068,0.101,3.7334,1028.1069
+frozenset({'Organic Lemon'}),frozenset({'Organic Hass Avocado'}),0.0068,0.2508,3.7334,2552.4855
+frozenset({'Organic Avocado'}),frozenset({'Cucumber Kirby'}),0.0054,0.0973,3.1479,796.058
+frozenset({'Cucumber Kirby'}),frozenset({'Organic Avocado'}),0.0054,0.1755,3.1479,1435.9724
+frozenset({'Organic Hass Avocado'}),frozenset({'Organic Cucumber'}),0.0052,0.0769,3.0553,832.4854
+frozenset({'Organic Cucumber'}),frozenset({'Organic Hass Avocado'}),0.0052,0.2052,3.0553,2220.4299
+frozenset({'Organic Strawberries'}),frozenset({'Organic Raspberries'}),0.011,0.1316,3.0432,2564.3433
+frozenset({'Organic Raspberries'}),frozenset({'Organic Strawberries'}),0.011,0.2538,3.0432,4945.7895
+frozenset({'Organic Hass Avocado'}),frozenset({'Organic Raspberries'}),0.0086,0.1273,2.9436,1514.217
