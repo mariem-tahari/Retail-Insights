@@ -1,0 +1,32 @@
+regle;support;confidence
+Honeycrisp Apple -> Banana;0.0102;0.3643
+Organic Hass Avocado -> Bag of Organic Bananas;0.0184;0.3353
+Organic Raspberries -> Bag of Organic Bananas;0.0139;0.3322
+Strawberries -> Banana;0.0168;0.3241
+Organic Avocado -> Banana;0.0163;0.3071
+Organic Raspberries -> Organic Strawberries;0.0122;0.2916
+Organic Strawberries -> Bag of Organic Bananas;0.0222;0.2788
+Large Lemon -> Banana;0.0167;0.2697
+Limes -> Large Lemon;0.0122;0.269
+Organic Baby Spinach -> Bag of Organic Bananas;0.0177;0.2385
+Limes -> Banana;0.0102;0.2249
+Organic Hass Avocado -> Organic Strawberries;0.0115;0.2095
+Organic Baby Spinach -> Banana;0.0148;0.1995
+Large Lemon -> Limes;0.0122;0.197
+Organic Strawberries -> Banana;0.0154;0.1934
+Bag of Organic Bananas -> Bag of Organic Bananas;0.0222;0.193
+Bag of Organic Bananas -> Organic Strawberries;0.0222;0.193
+Bag of Organic Bananas -> Organic Hass Avocado;0.0184;0.1599
+Organic Baby Spinach -> Organic Strawberries;0.0115;0.155
+Bag of Organic Bananas -> Organic Baby Spinach;0.0177;0.1539
+Organic Strawberries -> Organic Raspberries;0.0122;0.1532
+Organic Strawberries -> Organic Baby Spinach;0.0115;0.1444
+Organic Strawberries -> Organic Hass Avocado;0.0115;0.1444
+Bag of Organic Bananas -> Organic Raspberries;0.0139;0.1208
+Banana -> Strawberries;0.0168;0.1163
+Banana -> Large Lemon;0.0167;0.1156
+Banana -> Organic Avocado;0.0163;0.1128
+Banana -> Organic Strawberries;0.0154;0.1066
+Banana -> Organic Baby Spinach;0.0148;0.1024
+Banana -> Honeycrisp Apple;0.0102;0.0706
+Banana -> Limes;0.0102;0.0706
