@@ -1,0 +1,14 @@
+import pandas as pd
+import numpy as np
+
+products = pd.read_csv("products.csv")
+
+np.random.seed(42)
+
+products["price"] = np.round(np.random.uniform(1, 8, len(products)), 2)
+
+products_prices = products[["product_id","product_name","aisle_id","department_id","price"]]
+
+products_prices.to_csv("products_with_prices.csv", index=False)
+
+print("products_with_prices.csv created successfully")
